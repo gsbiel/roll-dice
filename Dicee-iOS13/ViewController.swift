@@ -28,7 +28,6 @@ class ViewController: UIViewController {
 //        diceImageView1.alpha = 0.5
 //        diceImageView2.image = #imageLiteral(resourceName: "DiceFour")
 //        diceImageView2.alpha = 0.3
-        
     }
 
     @IBAction func rollButtonPressed(_ sender: UIButton) {
